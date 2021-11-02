@@ -35,4 +35,4 @@ def test_calculator_divide():
     """ tests multiplication of two numbers"""
     calc = Calculator()
     result  = calc.divide_numbers(1,0)
-    assert result == 0.5
+    assert result == 0.7
